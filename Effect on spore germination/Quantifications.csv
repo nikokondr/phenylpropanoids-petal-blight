@@ -1,0 +1,139 @@
+Replica,"Petal size, cm2","Lesion size, cm2",Treatment,Experiment
+1,11.16,1.155,Acetone,Rep1
+1,11.16,0.77,Coniferyl alcohol,Rep1
+2,13.537,0.716,Acetone,Rep1
+2,13.537,0.798,Coniferyl alcohol,Rep1
+3,11.886,0.779,Acetone,Rep1
+3,11.886,1.022,Coniferyl alcohol,Rep1
+4,11.057,0.553,Acetone,Rep1
+4,11.057,0.803,Coniferyl alcohol,Rep1
+5,10.164,0.627,Acetone,Rep1
+5,10.164,0.589,Coniferyl alcohol,Rep1
+6,10.248,1.003,Acetone,Rep1
+6,10.248,0.7,Coniferyl alcohol,Rep1
+7,15.259,1.171,Acetone,Rep1
+7,15.259,0.826,Coniferyl alcohol,Rep1
+8,9.779,1.156,Acetone,Rep1
+8,9.779,0.54,Coniferyl alcohol,Rep1
+9,8.726,0.868,Ethanol,Rep1
+9,8.726,0.036,Caffeic acid,Rep1
+10,12.067,0.921,Ethanol,Rep1
+10,12.067,0,Caffeic acid,Rep1
+11,11.395,0.889,Ethanol,Rep1
+11,11.395,0.075,Caffeic acid,Rep1
+12,10.674,0.763,Ethanol,Rep1
+12,10.674,0.044,Caffeic acid,Rep1
+13,10.278,0.903,Ethanol,Rep1
+13,10.278,0.13,Caffeic acid,Rep1
+14,11.646,0.72,Ethanol,Rep1
+14,11.646,0.098,Caffeic acid,Rep1
+15,11.003,0.586,Ethanol,Rep1
+15,11.003,0.008,Caffeic acid,Rep1
+16,13.804,1.047,Ethanol,Rep1
+16,13.804,0,Caffeic acid,Rep1
+17,10.454,1.133,Ethanol,Rep1
+17,10.454,0,Ferulic acid,Rep1
+18,10.009,0.708,Ethanol,Rep1
+18,10.009,0,Ferulic acid,Rep1
+19,9.538,0.712,Ethanol,Rep1
+19,9.538,0,Ferulic acid,Rep1
+20,11.488,0.759,Ethanol,Rep1
+20,11.488,0,Ferulic acid,Rep1
+21,13.195,0.905,Ethanol,Rep1
+21,13.195,0,Ferulic acid,Rep1
+22,10.793,0.822,Ethanol,Rep1
+22,10.793,0,Ferulic acid,Rep1
+23,10.95,0.84,Ethanol,Rep1
+23,10.95,0,Ferulic acid,Rep1
+24,13.227,0.914,Ethanol,Rep1
+24,13.227,0,Ferulic acid,Rep1
+25,11.67,0.625,Acetone,Rep2
+25,11.67,0.386,Coniferyl alcohol,Rep2
+26,9.779,0.73,Acetone,Rep2
+26,9.779,0.72,Coniferyl alcohol,Rep2
+27,10.183,0.416,Acetone,Rep2
+27,10.183,0.491,Coniferyl alcohol,Rep2
+28,9.454,0.566,Acetone,Rep2
+28,9.454,1.058,Coniferyl alcohol,Rep2
+29,9.309,0.544,Acetone,Rep2
+29,9.309,0.843,Coniferyl alcohol,Rep2
+30,8.512,0.572,Acetone,Rep2
+30,8.512,0.427,Coniferyl alcohol,Rep2
+31,12.253,0.642,Acetone,Rep2
+31,12.253,0.4,Coniferyl alcohol,Rep2
+32,8.754,0.534,Ethanol,Rep2
+32,8.754,0,Caffeic acid,Rep2
+33,10.232,0.494,Ethanol,Rep2
+33,10.232,0,Caffeic acid,Rep2
+34,9.541,0.44,Ethanol,Rep2
+34,9.541,0.242,Caffeic acid,Rep2
+35,10.017,0.609,Ethanol,Rep2
+35,10.017,0.474,Caffeic acid,Rep2
+36,10.724,0.533,Ethanol,Rep2
+36,10.724,0.285,Caffeic acid,Rep2
+37,11.872,0.576,Ethanol,Rep2
+37,11.872,0,Caffeic acid,Rep2
+38,10.801,0.676,Ethanol,Rep2
+38,10.801,0,Caffeic acid,Rep2
+39,9.477,0.289,Ethanol,Rep2
+39,9.477,0,Ferulic acid,Rep2
+40,8.286,0.496,Ethanol,Rep2
+40,8.286,0,Ferulic acid,Rep2
+41,11.426,0.318,Ethanol,Rep2
+41,11.426,0,Ferulic acid,Rep2
+42,8.839,0.506,Ethanol,Rep2
+42,8.839,0,Ferulic acid,Rep2
+43,9.629,0.406,Ethanol,Rep2
+43,9.629,0,Ferulic acid,Rep2
+44,9.359,0.798,Ethanol,Rep2
+44,9.359,0,Ferulic acid,Rep2
+45,9.773,0.801,Ethanol,Rep2
+45,9.773,0,Ferulic acid,Rep2
+46,10.885,0.63,Ethanol,Rep2
+46,10.885,0,Ferulic acid,Rep2
+47,9.142,0.72,Ethanol,Rep3
+47,9.142,0,Cinnamic acid,Rep3
+48,7.522,0.44,Ethanol,Rep3
+48,7.522,0,Cinnamic acid,Rep3
+49,11.345,0.884,Ethanol,Rep3
+49,11.345,0,Cinnamic acid,Rep3
+50,8.51,0.466,Ethanol,Rep3
+50,8.51,0,Cinnamic acid,Rep3
+51,8.448,0.496,Ethanol,Rep3
+51,8.448,0,p-Coumaric acid,Rep3
+52,10.561,0.493,Ethanol,Rep3
+52,10.561,0,p-Coumaric acid,Rep3
+53,10.126,0.61,Ethanol,Rep3
+53,10.126,0,p-Coumaric acid,Rep3
+54,8.574,0.543,Ethanol,Rep3
+54,8.574,0,p-Coumaric acid,Rep3
+55,7.336,0.379,Ethanol,Rep3
+55,7.336,0,p-Coumaric acid,Rep3
+56,8.201,0.381,Ethanol,Rep3
+56,8.201,0,p-Coumaric acid,Rep3
+57,8.834,0.515,Ethanol,Rep3
+57,8.834,0.047,Sinapic acid,Rep3
+58,9.774,0.49,Ethanol,Rep3
+58,9.774,0.204,Sinapic acid,Rep3
+59,9.355,0.492,Ethanol,Rep3
+59,9.355,0.028,Sinapic acid,Rep3
+60,9.717,0.609,Ethanol,Rep3
+60,9.717,0.283,Sinapic acid,Rep3
+61,11.06,0.75,Ethanol,Rep3
+61,11.06,0.065,Sinapic acid,Rep3
+62,9.351,0.572,Ethanol,Rep3
+62,9.351,0.134,Sinapic acid,Rep3
+63,8.98,0.403,Ethanol,Rep3
+63,8.98,0.023,Sinapic acid,Rep3
+64,8.313,0.742,Ethanol,Rep3
+64,8.313,0,Cinnamic acid,Rep3
+65,7.391,0.753,Ethanol,Rep3
+65,7.391,0,p-Coumaric acid,Rep3
+66,9.082,0.965,Ethanol,Rep3
+66,9.082,0,p-Coumaric acid,Rep3
+67,6.939,0.665,Ethanol,Rep3
+67,6.939,0,p-Coumaric acid,Rep3
+68,11.254,0.9,Ethanol,Rep3
+68,11.254,0.307,Sinapic acid,Rep3
+69,11.117,0.975,Ethanol,Rep3
+69,11.117,0.415,Sinapic acid,Rep3
